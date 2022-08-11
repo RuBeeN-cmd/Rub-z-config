@@ -1,0 +1,66 @@
+{
+	"workbench.startupEditor": "none",
+	"workbench.settings.editor": "json",
+	
+	// whitespace
+	"editor.tabSize": 4,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.inlineSuggest.enabled": false,
+	"editor.renderWhitespace": "none",
+
+	// 42 header
+	"42header.email": "rrollin@student.42angouleme.fr",
+	"42header.username": "rrollin",
+	"workbench.editor.showTabs": true,
+
+	// zenmode
+	"zenMode.fullScreen": true,
+	"zenMode.hideLineNumbers": false,
+	"zenMode.hideStatusBar": true,
+	"zenMode.centerLayout": false,
+	"zenMode.hideActivityBar": true,
+	"zenMode.hideTabs": false,
+
+	// modules enabled
+	"breadcrumbs.enabled": false,
+	"editor.minimap.enabled": false,
+	"editor.scrollbar.horizontal": "hidden",
+	"editor.scrollbar.vertical": "hidden",
+	"editor.scrollbar.verticalScrollbarSize": 0,
+	"editor.foldingHighlight": false,
+	"editor.lineNumbers": "on",
+	"editor.renderLineHighlight": "gutter",
+	"workbench.statusBar.visible": false,
+
+	// cursor
+	"editor.cursorBlinking": "expand",
+
+	// terminal
+	"workbench.panel.defaultLocation": "right",
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.cursorWidth": 2,
+	"terminal.integrated.fontSize": 15,
+
+	// font
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.fontSize": 15,
+	"editor.fontLigatures": true,
+
+	// rulers
+	"editor.rulers": [
+		80
+	],
+	"github.copilot.enable": {
+		"*": true,
+		"yaml": false,
+		"plaintext": false,
+		"markdown": true
+	},
+	"workbench.colorCustomizations": {
+	},
+	"window.zoomLevel": 1,
+	"workbench.colorTheme": "Rubz"
+	
+}
